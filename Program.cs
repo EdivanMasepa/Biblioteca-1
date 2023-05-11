@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Biblioteca
 {
@@ -49,7 +50,46 @@ namespace Biblioteca
 		
 		static void Cadastro(Biblioteca biblioteca)
 		{
-			
+			Console.Clear();
+			Console.WriteLine("Selecione uma opção de cadastro:");
+			Console.WriteLine("1 - Cadastrar cliente");
+			Console.WriteLine("2 - Cadastrar livro");
+			Console.WriteLine("0 - Voltar");
+
+			int.TryParse(Console.ReadLine(), out int opcao);
+
+			switch (opcao){
+				case 1:
+					Console.Clear();
+					Console.WriteLine("Cadastro de cliente: ");
+					Console.Write("Nome: ");
+					string nomeCliente = Console.ReadLine();
+					Console.WriteLine("Data de nascimento (AAAA-MM-DD): ");
+					DateTime.TryParse(Console.ReadLine(), out DateTime dataNascimento);
+					Console.WriteLine("Telefone: ");
+					string telefone = Console.ReadLine();
+
+					Cliente novoCliente = new Cliente{Id = biblioteca.clientes.Count + 1, Nome = nomeCliente, DataNascimento = dataNascimento, Telefone = telefone};
+					biblioteca.clientes.Add(novoCliente);
+					biblioteca.SalvarDados();
+					Console.WriteLine("Cliente cadastrado com sucesso!");
+					Console.ReadKey();
+				break;
+				case 2:
+					Console.Clear();
+					Console.WriteLine("Cadastro de livro: ");
+					Console.WriteLine("Titulo: ");
+					string titulo = Console.ReadLine();
+					Console.WriteLine("Autor: ");
+					string autor = Console.ReadLine();
+
+					Livro novolivro = new Livro{Id = biblioteca.livros.Count + 1, Titulo = titulo, Autor = autor, Disponivel = true};
+					biblioteca.livros.Add(novolivro);
+					biblioteca.SalvarDados();
+					Console.WriteLine("Livro cadastrado com sucesso!");
+					Console.ReadKey();	
+				break;	
+			}
 		}
 		
 		static void Consulta(Biblioteca biblioteca)

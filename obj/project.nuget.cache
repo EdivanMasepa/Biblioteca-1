@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3NYOpzhPs+C5gwe5u01FFw4O/L+eG4qC2Lx4xXq5u6cMvOFbfJGimHPzpEbEYEYJIHdU94QppV9oR9J9nsDouQ==",
+  "dgSpecHash": "rxn5vscbxGdB5QFxoExBImiGewn9iDhRbQh7LIrMW4iiZIxvtn8M7cfpu9dyr1ZXIOh9tPWbUwTxkAv4CwYu+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Professor\\Documents\\prof. Jefferson\\TADS\\POO Final\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\aluno\\Documents\\GitHub\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Professor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\aluno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

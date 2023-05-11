@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professor\\Documents\\prof. Jefferson\\TADS\\POO Final\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\aluno\\Documents\\GitHub\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professor\\Documents\\prof. Jefferson\\TADS\\POO Final\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\aluno\\Documents\\GitHub\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professor\\Documents\\prof. Jefferson\\TADS\\POO Final\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Professor\\Documents\\prof. Jefferson\\TADS\\POO Final\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\Professor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professor\\Documents\\prof. Jefferson\\TADS\\POO Final\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Professor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

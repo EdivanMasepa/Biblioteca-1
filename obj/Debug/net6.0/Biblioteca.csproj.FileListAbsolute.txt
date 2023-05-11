@@ -15,3 +15,20 @@ C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\obj\Debug
 C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
 C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CopyComplete
+C:\Users\aluno\Documents\GitHub\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\Users\aluno\Documents\GitHub\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\aluno\Documents\GitHub\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\aluno\Documents\GitHub\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\aluno\Documents\GitHub\Biblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CopyComplete
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
